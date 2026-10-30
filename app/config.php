@@ -6,7 +6,7 @@ declare(strict_types=1);
  * Simpan file ini di luar document root.
  */
 return [
-    'site_name' => 'SANET MEDIA TEKNOLOGI',
+    'site_name' => 'Siti jukianti',
     'site_url' => 'https://sanetmedia.com',
     'default_locale' => 'id_ID',
     'contact_email' => 'hello@sanetmedia.com', // Ganti dengan email aktif
